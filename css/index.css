@@ -1,0 +1,48 @@
+th,
+td {
+    border: 1px solid black;
+    border-spacing: 15px;
+    background: white;
+    box-shadow: 10px 10px 5px #888888;
+    width: 100px;
+    margin: 10px auto;
+    border-radius: 5px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+th,
+td {
+    padding: 5px;
+}
+
+.sign-title {
+    font-family: AUGUSTUS;
+    font-size: 30px;
+    font-weight: 600
+}
+
+.element-text {
+    font-size: 22px
+}
+
+.element-container img {
+    width: 6%
+}
+
+.sign-row {
+    padding: 25px
+}
+
+.sign-container {
+    width: 33%;
+    display: inline-block
+}
+
+.mini-planets img {
+    width: 11%
+}
+
+#AstrologySymbol {
+    width: 20%
+}

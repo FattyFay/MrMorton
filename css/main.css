@@ -1,0 +1,86 @@
+.main-body {
+    background-image: url("../images/Fantasy-Sky-Step2.jpg");
+    white-space: nowrap
+}
+
+@font-face {
+    font-family: AUGUSTUS;
+    src: url("../SteinAntik.ttf")
+}
+
+* {
+    color: #5C6665;
+    font-family: AUGUSTUS
+}
+
+.table-container table {
+    margin: 0px auto;
+    border-spacing: 15px;
+    width: 40%
+}
+
+.center-text {
+    text-align: center
+}
+
+
+#ClearAstroChart {
+    width: 35%
+}
+
+#MainTitle {
+    font-family: AUGUSTUS;
+    font-size: 60px;
+    text-align: center
+}
+
+
+
+#MainText {
+    font-family: AUGUSTUS;
+    font-size: 30px;
+    text-align: center
+}
+
+h2 {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    line-height: 0.1em;
+    margin: 15px 0 20px;
+}
+
+h2 span {
+    background: #fff;
+    padding: 0 10px;
+}
+
+.main-header {
+    text-align: center;
+}
+
+
+.one-tenth {
+    width: 10%;
+    display: inline-block;
+    white-space: normal
+}
+
+.left {
+    float: right
+}
+
+.right {
+    float: left
+}
+
+.eight-tenth {
+    width: 78%;
+    display: inline-block;
+    white-space: normal
+}
+
+.main-body {
+    text-align: center
+}
+
